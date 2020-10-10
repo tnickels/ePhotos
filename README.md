@@ -1,8 +1,8 @@
 # ePhotos v1.7
-released 10/10/2020
+> released 10/10/2020
 
 This script is provided as freeware, but any donations will be greatly appreciated. If you find this software useful please buy me a coffee via https://www.buymeacoffee.com/tnickels
-
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="tnickels" data-color="#FF813F" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000" data-font-color="#fff" data-coffee-color="#fd0" ></script>
 
 
 ## Introduction
