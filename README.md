@@ -2,8 +2,7 @@
 > released 10/10/2020
 
 This script is provided as freeware, but any donations will be greatly appreciated. If you find this software useful please buy me a coffee via https://www.buymeacoffee.com/tnickels
-<a href="https://www.buymeacoffee.com/tnickels" target="_blank">![foo](https://cdn.buymeacoffee.com/buttons/v2/default-orange.png =217x)</a>
-
+<a href="https://www.buymeacoffee.com/tnickels" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width= "217" ></a>
 ## Introduction
 
 When Apple dropped the built in email photo resizing option to share photos to an email program, it made things cumbersome. Photos now had to be exported to a folder and then manually dragged into the email client. If the overall email size was too large, you have to do it all over again with different settings.  I had tried all the email programs and tested new ones as they were released. None offered the same functionality Apples iPhoto used to have. Apple Mail badly embeds all images inline and although now Postbox has included image resizing, it too is only available for inline images.
