@@ -2,7 +2,7 @@
 > released 10/10/2020
 
 This script is provided as freeware, but any donations will be greatly appreciated. If you find this software useful please buy me a coffee via https://www.buymeacoffee.com/tnickels
-<a href="https://www.buymeacoffee.com/tnickels" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/tnickels" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 5px !important;width: 40px !important;" ></a>
 
 ## Introduction
 
