@@ -21,10 +21,10 @@ ePhotos is an Applescript to export photos selected within the Apple Photos App 
 
 ## Supported software
 
-The script is compatible with >= Mac OS 10.14. 
-Apple Photos.app. 
+The script is compatible with >= Mac OS 10.14  
+Apple Photos.app  
 Email Clients:  
-	Postbox. 
+	Postbox  
 	Microsoft Outlook 365
 
 
