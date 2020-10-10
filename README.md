@@ -82,7 +82,7 @@ The script is set to read only and contains a lot of code snippets people may fi
 If any changes/improvements are made to the script, used in other software in part or whole or the script is used as a basis for other implementations it is a condition of use that you send me a licence free copy of your work.
 
 ## Credits
-ePhotos uses [SKProgressBar 1.8](http://klieme.com/Downloads/SKProgressBar/SKProgressBar1.8.zip) to provide progress notification. It is written by [Stefen Klieme](http://www.klieme.de/). Support for SKProgressBar can be found [here](https://macscripter.net/viewtopic.php?id=36409)
+ePhotos uses [SKProgressBar 1.8](http://klieme.com/Downloads/SKProgressBar/SKProgressBar1.8.zip) to provide progress notification. SKProgressBar is written by [Stefen Klieme](http://www.klieme.de/) and support for SKProgressBar can be found [here](https://macscripter.net/viewtopic.php?id=36409)
 
 ePhotos is developed and maintained by [Travis Nickels](https://github.com/tnickels)
 
