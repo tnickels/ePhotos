@@ -2,7 +2,7 @@
 > released 10/10/2020
 
 This script is provided as freeware, but any donations will be greatly appreciated. If you find this software useful please buy me a coffee via https://www.buymeacoffee.com/tnickels
-<a href="https://www.buymeacoffee.com/tnickels" target="_blank">![foo](https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" =217x)</a>
+<a href="https://www.buymeacoffee.com/tnickels" target="_blank">![foo](https://cdn.buymeacoffee.com/buttons/v2/default-orange.png =217x)</a>
 
 ## Introduction
 
