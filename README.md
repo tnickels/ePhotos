@@ -4,6 +4,7 @@ released 10/10/2020
 This script is provided as freeware, but any donations will be greatly appreciated. Please buy me a coffee via https://www.buymeacoffee.com/tnickels
 
 
+
 Introduction
 
 When Apple dropped the built in email photo resizing option to share photos to an email program, it made things cumbersome. Photos now had to be exported to a folder and then manually dragged into the email client. If the overall email size was too large, you have to do it all over again with different settings.  I had tried all the email programs and tested new ones as they were released. None offered the same functionality Apples iPhoto used to have. Apple Mail badly embeds all images inline and although now Postbox has included image resizing, it too is only available for inline images.
@@ -12,11 +13,13 @@ So, a couple of years ago I wrote an Applescript to take a selection of photos w
 
 In the rewrite I added functionality, better error handling and expanded the code to also send resized photos to Microsoft Outlook.
 
+
 What is ePhotos
 
 This software adds a function severely missing from the Postbox and Microsoft Outlook Apps. It provides the ability to downsize attached images (not inline images) from the Photos App to your email client. Postbox have provided a "sharing extension" that will allow images to be passed onto Postbox from the Apple Photos App, but that is limited to 10 photos and no downsizing functionality
 
 ePhotos is an Applescript to export photos selected within the Apple Photos App and attached them to a new email in Postbox or Outlook. During the process it gives the user the ability to downsize the images more suitable for emailing
+
 
 Supported software
 
@@ -24,6 +27,7 @@ The script is compatible with >= Mac OS 10.14
 Email Clients:
 	Postbox
 	Microsoft Outlook 365
+
 
 Installation
 
@@ -37,6 +41,7 @@ Installation
 6.	Open the application “Script Editor” located within Applications/Utilities folder
 7.	Open the preferences and select the “Show Script menu in menu bar”
 
+
 How to Use
 
 1.	Open Photos and make sure you are in the “Thumbnail View”. The script only works when in the “Thumbnail View”. 
@@ -47,6 +52,7 @@ How to Use
 5.	The script will then give you the option to cancel, email the original, a large image with a max dimension of 1600px or a medium image with a max dimension 
            of 800px.
 
+
 How Does it Work?
 
 The script creates a cache directory called “com.tnickels.EmailPhotosCache” within /Users/Your username/Library/Caches. Within this directory a temporary folder is created each time you call “ePhotos”. The selected photos are then copied into an “original” directory within this cache folder and they are then resized to the remaining two file size options.
@@ -54,6 +60,7 @@ The script creates a cache directory called “com.tnickels.EmailPhotosCache” 
 It will then obtain the total file size for each option and ask you which one you would like to use. After selecting the file size, a new email is created and the files are attached.
 
 Finally “ePhotos” cleans up after itself. It tests to see if any of the cache folders are more than 24 hours old. If they are, it deletes them and keeps your system tidy.
+
 
 
 Some personal words
@@ -66,6 +73,7 @@ Speed improvements can be made through shell scripts or even rewriting the whole
 
 This script is provided as freeware, but any donations will be greatly appreciated.
 Please buy me a coffee via https://www.buymeacoffee.com/tnickels
+
 
 
 It’s freeware but how do I get a copy of the code
