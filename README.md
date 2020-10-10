@@ -77,10 +77,17 @@ Please buy me a coffee via https://www.buymeacoffee.com/tnickels
 
 ## It’s freeware but how do I get a copy of the code
 
-The script is set to read only and contains a lot of code snippets people may find helpful. I have spent a decent amount of time and effort putting this script together. If you would like access to the code so you can use various pieces in your own code or simply expand on what I have done, buy me 5 coffees and I will send you a copy of the code.
+The script is set to read only and contains a lot of code snippets people may find helpful. I have spent a decent amount of time and effort putting this script together. If you would like access to the code so you can use various pieces in your own code or simply expand on what I have done, buy me a few more coffees coffees and I will send you a copy of the code.
 
 If any changes/improvements are made to the script, used in other software in part or whole or the script is used as a basis for other implementations it is a condition of use that you send me a licence free copy of your work.
 
+## Credits
+ePhotos uses [SKProgressBar 1.8](http://klieme.com/Downloads/SKProgressBar/SKProgressBar1.8.zip) to provide progress notification. It is written by [Stefen Klieme](http://www.klieme.de/). Support for SKProgressBar can be found [here](https://macscripter.net/viewtopic.php?id=36409)
+
+ePhotos is developed and maintained by [Travis Nickels](https://github.com/tnickels)
+
+
+Any issues or pull request can be lodged on the [ePhotos github page](https://github.com/tnickels/ePhotos)
 
 Written by Travis Nickels © 2020
 
